@@ -23,6 +23,7 @@ https://yformer.github.io/efficient-sam/ <br />
 
 ### 🖼 Output
 
+https://github.com/camenduru/YoloWorld-EfficientSAM-jupyter/assets/54370274/ba2ebfdd-9506-4af2-8248-aa7e578b5b61
 
 ### 🏢 Sponsor
 https://replicate.com
